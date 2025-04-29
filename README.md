@@ -43,3 +43,5 @@ def get_bbox(cluster):
 def bboxes_are_close(bbox1, bbox2, margin=5):
     x1_min, y1_min, x1_max, y1_max = bbox1
 
+```
+[Clique aqui para visualizar o código no GitHub](https://github.com/Melissa-Francielle/Object_counter/blob/main/Counter.py)
